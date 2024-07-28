@@ -1,0 +1,1 @@
+# swift-nvim-config
